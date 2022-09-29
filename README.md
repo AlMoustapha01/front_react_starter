@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In this project we have some dependencies:
+- [react router dom v6](https://reactrouter.com/en/v6.3.0/getting-started/overview)
+- [mantine](https://mantine.dev/guides/cra/)
+- [primereact & primeicons](https://www.primefaces.org/primereact/setup/)
 
 ## Available Scripts
 
